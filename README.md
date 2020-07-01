@@ -10,7 +10,7 @@
   !git clone https://github.com/namepen/nanum_font.git
 ```
 
-2. 폰트 파일의 경로를 지정하여 font_manager에 추가합니다.
+2. 폰트 파일의 경로를 지정하여 font_manager에 추가합니다. [how to set up a custom font with custom path to matplotlib global font?, stackoverflow](https://stackoverflow.com/questions/35668219/how-to-set-up-a-custom-font-with-custom-path-to-matplotlib-global-font)의 내용을 참고하였습니다.
 
 ```
   import matplotlib.pyplot as plt
